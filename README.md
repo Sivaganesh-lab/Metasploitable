@@ -1,7 +1,5 @@
 # Metasploitable 2
 
-![Metasploitable 2 Logo](link_to_logo.png) <!-- Add a logo image if available -->
-
 ## Description
 
 Metasploitable 2 is an intentionally vulnerable virtual machine designed for practicing penetration testing and learning various cybersecurity techniques. It is an educational tool that allows security professionals and enthusiasts to explore and understand common vulnerabilities and exploits in a safe and controlled environment.
