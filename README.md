@@ -50,5 +50,3 @@ Metasploitable 2 is licensed under the MIT License.
 Disclaimer
 Metasploitable 2 is intended for educational purposes only. The creators and contributors are not responsible for any misuse or illegal activities conducted with this software.
 
-Contact
-For any questions or inquiries, feel free to contact us at example@email.com.
