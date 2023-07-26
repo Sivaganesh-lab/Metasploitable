@@ -23,10 +23,10 @@ Metasploitable 2 is an intentionally vulnerable virtual machine designed for pra
 
 ### Installation
 
-1. Clone this repository to your local machine:
+1. Clone  from repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/metasploitable2.git
+   git clone https://github.com/metasploitable2.git
 
 
 
